@@ -3,6 +3,7 @@ title: Blog post test
 date: 2024-01-29
 categories: []
 tags: [welcome]
+author: stef
 ---
 
 - List item
@@ -11,13 +12,18 @@ tags: [welcome]
 
 En dit is een gewone paragraaf
 _Cursief lukt blijkbaar ook_
-\*\*Bold of vetgedrukt werkt
+**Bold of vetgedrukt werkt**
 
 - Een lijstje
 - nog een item op het lijst
 
-|a| b|
-|-12-|-&é-|
-|&é |&é |
+1. Of een genummerd lijstje
+1. Nummers worden vanzelf
+1. Aangevuld
 
-enter link description here
+| links    | center | rechts |
+| :------- | :----: | -----: |
+| tabellen | kunnen |    ook |
+
+urls: [google](https://google.com)
+of afbeeldingen: [afb](https://upload.wikimedia.org/wikipedia/commons/7/78/250_mL_Erlenmeyer_flask.jpg)
