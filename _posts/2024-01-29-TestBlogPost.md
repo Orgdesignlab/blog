@@ -26,4 +26,5 @@ _Cursief lukt blijkbaar ook_
 | tabellen | kunnen |    ook |
 
 urls: [google](https://google.com)
-of afbeeldingen: [afb](https://upload.wikimedia.org/wikipedia/commons/7/78/250_mL_Erlenmeyer_flask.jpg)
+
+Voor alle formatting opties, kijk zeker eens naar de [markdown formatting cheatsheet](https://www.markdownguide.org/cheat-sheet/) en de [custom opties van onze template](https://chirpy.cotes.page/posts/text-and-typography/) ([src](https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/_posts/2019-08-08-text-and-typography.md))
