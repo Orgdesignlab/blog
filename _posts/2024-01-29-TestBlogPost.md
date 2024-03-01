@@ -5,10 +5,11 @@ categories: []
 tags: [welcome]
 author: stef
 ---
-
-- List item
-
 ## Blog post test
+
+### Subtitel
+
+
 
 En dit is een gewone paragraaf
 _Cursief lukt blijkbaar ook_
@@ -18,11 +19,12 @@ _Cursief lukt blijkbaar ook_
 - nog een item op het lijst
 
 1. Of een genummerd lijstje
-1. Nummers worden vanzelf
-1. Aangevuld
+2. Nummers worden vanzelf
+3. Aangevuld
+
 
 | links    | center | rechts |
-| :------- | :----: | -----: |
+| :--------- | :------: | -------: |
 | tabellen | kunnen |    ook |
 
 urls: [google](https://google.com)
